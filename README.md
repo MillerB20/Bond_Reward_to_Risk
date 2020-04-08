@@ -54,11 +54,11 @@ So by creating lists of the proper duplications and cycles, this process can cre
 
     /   \   
 
-   /     [-]  
+   /       [-]  
 
 [a]        
 
-   \     [+] 
+   \       [+] 
 
     \   / 
 
