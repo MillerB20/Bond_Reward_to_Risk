@@ -44,30 +44,17 @@ So we know that in the list of possible values of "a" in the first column of the
 
 So by creating lists of the proper duplications and cycles, this process can create columns that can be aligned to create a table of bonds with combination properties.  
 
-  
-
          [+] 
-
         /         
-
      [1]  
-
     /   \   
-
-   /       [-]  
-
+   /     [-] 
 [a]        
-
-   \       [+] 
-
+   \     [+] 
     \   / 
-
      [2]     
-
         \    
-
          [-] 
-
            
 
  
