@@ -42,19 +42,29 @@ The duplication number can be found by multiplying 1 * all forward n values toge
 
 So we know that in the list of possible values of "a" in the first column of the table, we will have 1 * 2 * 2 = 4 duplicates and because it is the first element in the chain it will be 1. The second column  1 * 2 = two duplicates, and, 1 * 1 = one cycle. And lastly for the last column, the duplicate is simply 1 and cycle is 2 * 1 = 2 cycles. All of these calculations can be verified in the table above.  
 
-So by creating lists of the proper duplications and cycles, this process can create columns that can be aligned to create a table of bonds with combination properties.  
+So by creating lists of the proper duplications and cycles, this process can create columns that can be aligned to create a table of bonds with combination properties. 
+
+# The below tree may need to be opened in a raw format to keep the formatting
 
          [+] 
-        /         
-     [1]  
-    /   \   
-   /     [-] 
-[a]        
-   \     [+] 
-    \   / 
-     [2]     
-        \    
-         [-] 
-           
 
+        /         
+
+     [1]  
+
+    /   \   
+
+   /     [-]  
+
+[a]        
+
+   \     [+] 
+
+    \   / 
+
+     [2]     
+
+        \    
+
+         [-] 
  
